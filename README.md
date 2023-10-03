@@ -27,7 +27,6 @@
 ### Studying in this moment:
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![Power  BI](https://img.shields.io/badge/-PowerBI-0D1117?style=for-the-badge&logo=powerbi&labelColor=0D1117&textColor=0D1117)&nbsp;
-![DB](https://img.shields.io/badge/-DB-0D1117?style=for-the-badge&logo=DB&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
 
