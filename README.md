@@ -22,13 +22,11 @@
  ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 
 ### Studying in this moment:
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![PowerBI](https://img.shields.io/badge/-PowerBI-0D1117?style=for-the-badge&logo=powerbi&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Power BI](https://img.shields.io/badge/-PowerBI-0D1117?style=for-the-badge&logo=powerbi&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
 
