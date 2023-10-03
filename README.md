@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=52b788&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Marcon+Vinícius;I'm+18+years+old;I'm+from+Brazil;I+studying+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vinicius061&bg_color=000000&color=5ecf4f&line=bef5b7&point=00ff1e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
 <img src=https://github-profile-trophy.vercel.app/?username=vinicius061&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy />
